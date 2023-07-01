@@ -1,5 +1,7 @@
 # Qwik Library ⚡️
 
+First example with default content after create library from Qwik Create option
+
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
 - [Qwik on GitHub](https://github.com/BuilderIO/qwik)

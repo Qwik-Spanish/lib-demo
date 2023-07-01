@@ -1,5 +1,5 @@
 {
-  "name": "my-qwik-library-name",
+  "name": "@mugan86/qwik-demo-lib",
   "version": "0.0.1",
   "description": "Create a reusable Qwik component library",
   "main": "./lib/index.qwik.mjs",
@@ -18,6 +18,11 @@
   ],
   "engines": {
     "node": ">=15.0.0"
+  },
+  "author": {
+    "name": "Anartz Mugika Ledo",
+    "email": "mugan86@gmail.com",
+    "url": "https://anartz-mugika.com/"
   },
   "private": false,
   "type": "module",
